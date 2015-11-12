@@ -15,7 +15,7 @@ begin
  			readln(matris[a,b]);
 
 			end;
-		readln;
+		
  	end;
 
  	for a:=1 to 3 do
